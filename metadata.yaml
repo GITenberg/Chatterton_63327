@@ -1,5 +1,8 @@
 _repo: Chatterton_63327
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63327-h/images/cover.jpg
 creator:
   author:
     agent_name: Lacy, Ernest
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52378'
     url: http://www.gutenberg.org/2009/agents/52378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63327#Chatterton
 gutenberg_issued: '2020-09-28'
 gutenberg_type: Text
 identifiers:
